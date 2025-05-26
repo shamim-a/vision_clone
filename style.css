@@ -632,7 +632,7 @@
     
     .career-offer-bg {
         background-color: #DBE1E4;
-        height: 89vh;
+        height: 89.7vh;
     }
     
     .stories-txt {
@@ -650,13 +650,13 @@
         background-repeat: no-repeat;
         background-position: center;
         background-size: cover;
-        height: 45.5vh;
+        height: 46.5vh;
         width: 50%;
     }
     
     .our-stories .our-stories-overlay {
         background: linear-gradient(220deg, rgba(0, 26, 36, 0.085) 20%, rgb(54, 97, 125) 85%);
-        height: 45.5vh;
+        height: 46.5vh;
         opacity: .8;
         width: auto;
     }
@@ -667,14 +667,14 @@
         background-repeat: no-repeat;
         background-position: center;
         background-size: cover;
-        height: 43.8vh;
+        height: 43.7vh;
         width: 50%;
-        margin-top: 5px;
+        margin-top: 25px;
     }
     
     .career-bg .career-bg-overlay {
         background: linear-gradient(-225deg, rgba(0, 26, 36, 0.085) 20%, rgb(54, 97, 125) 85%);
-        height: 43.8vh;
+        height: 43.7vh;
         opacity: .8;
         width: auto;
     }
